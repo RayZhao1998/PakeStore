@@ -33,12 +33,12 @@
         <td>WeRead
             <a href="https://github.com/tw93/Pake/releases/latest/download/WeRead.dmg">Mac</a>
             <a href="https://github.com/tw93/Pake/releases/latest/download/WeRead_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/WeRead_amd64.deb">Linux</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/WeRead_x86_64.deb">Linux</a>
         </td>
         <td>Twitter
             <a href="https://github.com/tw93/Pake/releases/latest/download/Twitter.dmg">Mac</a>
             <a href="https://github.com/tw93/Pake/releases/latest/download/Twitter_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Twitter_amd64.deb">Linux</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/Twitter_x86_64.deb">Linux</a>
         </td>
     </tr>
     <tr>
@@ -49,12 +49,12 @@
         <td>LiZhi
             <a href="https://github.com/tw93/Pake/releases/latest/download/LiZhi.dmg">Mac</a>
             <a href="https://github.com/tw93/Pake/releases/latest/download/LiZhi_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/LiZhi_amd64.deb">Linux</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/LiZhi_x86_64.deb">Linux</a>
         </td>
          <td>YouTube
             <a href="https://github.com/tw93/Pake/releases/latest/download/YouTube.dmg">Mac</a>
             <a href="https://github.com/tw93/Pake/releases/latest/download/YouTube_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/YouTube_amd64.deb">Linux</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/YouTube_x86_64.deb">Linux</a>
         </td>
     </tr>
     <tr>
@@ -65,12 +65,12 @@
         <td>Qwerty
             <a href="https://github.com/tw93/Pake/releases/latest/download/Qwerty.dmg">Mac</a>
             <a href="https://github.com/tw93/Pake/releases/latest/download/Qwerty_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Qwerty_amd64.deb">Linux</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/Qwerty_x86_64.deb">Linux</a>
         </td>
          <td>Reference
             <a href="https://github.com/tw93/Pake/releases/latest/download/Reference.dmg">Mac</a>
             <a href="https://github.com/tw93/Pake/releases/latest/download/Reference_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Reference_amd64.deb">Linux</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/Reference_x86_64.deb">Linux</a>
         </td>
     </tr>
     <tr>
@@ -78,30 +78,30 @@
         <td><img src=https://cdn.fliggy.com/upic/KFsZIY.png width=600/></td>
     </tr>
     <tr>
-        <td>Book
-            <a href="https://github.com/tw93/Pake/releases/latest/download/ZLibrary.dmg">Mac</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/ZLibrary_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/ZLibrary_amd64.deb">Linux</a>
+        <td>Flomo
+            <a href="https://github.com/tw93/Pake/releases/latest/download/Flomo.dmg">Mac</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/Flomo_x64.msi">Windows</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/Flomo_x86_64.deb">Linux</a>
         </td>
         <td>ChatGPT
             <a href="https://github.com/tw93/Pake/releases/latest/download/ChatGPT.dmg">Mac</a>
             <a href="https://github.com/tw93/Pake/releases/latest/download/ChatGPT_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/ChatGPT_amd64.deb">Linux</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/ChatGPT_x86_64.deb">Linux</a>
         </td>
     </tr>
     <tr>
-        <td><img src=https://cdn.fliggy.com/upic/lJiTRc.jpg width=600/></td>
+        <td><img src=https://gw.alipayobjects.com/zos/k/30/RoUSUf.png width=600/></td>
         <td><img src=https://cdn.fliggy.com/upic/sfnTXf.png width=600/></td>
     </tr>
 </table>
 
 <details>
-<summary>🏂 You can download more applications (such as Flomo / YuQue / RunCode) from <a href="https://github.com/tw93/Pake/releases">Releases</a>. <b>Click here to expand the shortcuts reference!</b></summary>
+<summary>🏂 You can download more applications (such as YuQue / RunCode) from <a href="https://github.com/tw93/Pake/releases">Releases</a>. <b>Click here to expand the shortcuts reference!</b></summary>
 
 <br/>
 
 | Mac                         | Windows/Linux                  | Function                      |
-| --------------------------- | ------------------------------ | ----------------------------- |
+|-----------------------------|--------------------------------|-------------------------------|
 | <kbd>⌘</kbd> + <kbd>[</kbd> | <kbd>Ctrl</kbd> + <kbd>←</kbd> | Return to the previous page   |
 | <kbd>⌘</kbd> + <kbd>]</kbd> | <kbd>Ctrl</kbd> + <kbd>→</kbd> | Go to the next page           |
 | <kbd>⌘</kbd> + <kbd>↑</kbd> | <kbd>Ctrl</kbd> + <kbd>↑</kbd> | Auto scroll to top of page    |
@@ -165,7 +165,7 @@ npm run build
 ## Advanced Usage
 
 1. You can refer to the [codebase structure](https://github.com/tw93/Pake/wiki/Description-of-Pake's-code-structure) before working on Pake, which will help you much in development.
-2. Add four fields (`url`, `productName`, `icon`, and `identifier`) to the `tauri.conf.json` and `tauri.xxx.conf.json` in the `src-tauri` directory. You can select a `icon` from the `icons` directory or download one from [macOSicons](https://macosicons.com/#/) to match your product needs.
+2. Modify the `url` and `productName` fields in the `tauri.conf.json` file under the src-tauri directory, as well as the `icon` and `identifier` fields in the `tauri.xxx.conf.json` file. You can select a `icon` from the `icons` directory or download one from [macOSicons](https://macosicons.com/#/) to match your product needs.
 3. For configurations on window properties, you can modify the `tauri.conf.json` file to change the value of `width`, `height`, `fullscreen` (or not), `resizable` (or not) of the `windows` property. To adapt to the immersive header on Mac, change `transparent` to `true`, look for the `Header` element, and add the `padding-top` property.
 4. For advanced usages such as style rewriting, advertisement removal, JS injection, container message communication, and user-defined shortcut keys, see [Advanced Usage of Make](https://github.com/tw93/Pake/wiki/Advanced-Usage-of-Make).
 
@@ -241,10 +241,24 @@ Pake's development can not be without these Hackers. They contributed a lot of c
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/exposir">
+            <img src="https://avatars.githubusercontent.com/u/33340988?v=4" width="90;" alt="exposir"/>
+            <br />
+            <sub><b>孟世博</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/2nthony">
             <img src="https://avatars.githubusercontent.com/u/19513289?v=4" width="90;" alt="2nthony"/>
             <br />
             <sub><b>2nthony</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ACGNnsj">
+            <img src="https://avatars.githubusercontent.com/u/22112141?v=4" width="90;" alt="ACGNnsj"/>
+            <br />
+            <sub><b>Null</b></sub>
         </a>
     </td>
     <td align="center">
@@ -260,7 +274,8 @@ Pake's development can not be without these Hackers. They contributed a lot of c
             <br />
             <sub><b>Dengju Deng</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Fechin">
             <img src="https://avatars.githubusercontent.com/u/2541482?v=4" width="90;" alt="Fechin"/>
@@ -274,8 +289,7 @@ Pake's development can not be without these Hackers. They contributed a lot of c
             <br />
             <sub><b>Po Chen</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/houhoz">
             <img src="https://avatars.githubusercontent.com/u/19684376?v=4" width="90;" alt="houhoz"/>

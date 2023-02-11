@@ -32,12 +32,12 @@
         <td>WeRead
             <a href="https://github.com/tw93/Pake/releases/latest/download/WeRead.dmg">Mac</a>
             <a href="https://github.com/tw93/Pake/releases/latest/download/WeRead_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/WeRead_amd64.deb">Linux</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/WeRead_x86_64.deb">Linux</a>
         </td>
         <td>Twitter
             <a href="https://github.com/tw93/Pake/releases/latest/download/Twitter.dmg">Mac</a>
             <a href="https://github.com/tw93/Pake/releases/latest/download/Twitter_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Twitter_amd64.deb">Linux</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/Twitter_x86_64.deb">Linux</a>
         </td>
     </tr>
     <tr>
@@ -48,12 +48,12 @@
         <td>LiZhi
             <a href="https://github.com/tw93/Pake/releases/latest/download/LiZhi.dmg">Mac</a>
             <a href="https://github.com/tw93/Pake/releases/latest/download/LiZhi_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/LiZhi_amd64.deb">Linux</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/LiZhi_x86_64.deb">Linux</a>
         </td>
          <td>YouTube
             <a href="https://github.com/tw93/Pake/releases/latest/download/YouTube.dmg">Mac</a>
             <a href="https://github.com/tw93/Pake/releases/latest/download/YouTube_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/YouTube_amd64.deb">Linux</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/YouTube_x86_64.deb">Linux</a>
         </td>
     </tr>
     <tr>
@@ -61,57 +61,57 @@
         <td><img src=https://cdn.fliggy.com/upic/Ea5ZRw.png width=600/></td>
     </tr>
     <tr>
-       <td>Book
-            <a href="https://github.com/tw93/Pake/releases/latest/download/ZLibrary.dmg">Mac</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/ZLibrary_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/ZLibrary_amd64.deb">Linux</a>
-        </td>
         <td>Qwerty
             <a href="https://github.com/tw93/Pake/releases/latest/download/Qwerty.dmg">Mac</a>
             <a href="https://github.com/tw93/Pake/releases/latest/download/Qwerty_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Qwerty_amd64.deb">Linux</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/Qwerty_x86_64.deb">Linux</a>
+        </td>
+         <td>Reference
+            <a href="https://github.com/tw93/Pake/releases/latest/download/Reference.dmg">Mac</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/Reference_x64.msi">Windows</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/Reference_x86_64.deb">Linux</a>
         </td>
     </tr>
     <tr>
-        <td><img src=https://cdn.fliggy.com/upic/lJiTRc.jpg width=600/></td>
         <td><img src=https://cdn.fliggy.com/upic/CJjagn.jpg width=600/></td>
+        <td><img src=https://cdn.fliggy.com/upic/KFsZIY.png width=600/></td>
     </tr>
     <tr>
-      <td>Reference
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Reference.dmg">Mac</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Reference_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/Reference_amd64.deb">Linux</a>
+        <td>Flomo
+            <a href="https://github.com/tw93/Pake/releases/latest/download/Flomo.dmg">Mac</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/Flomo_x64.msi">Windows</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/Flomo_x86_64.deb">Linux</a>
         </td>
         <td>ChatGPT
             <a href="https://github.com/tw93/Pake/releases/latest/download/ChatGPT.dmg">Mac</a>
             <a href="https://github.com/tw93/Pake/releases/latest/download/ChatGPT_x64.msi">Windows</a>
-            <a href="https://github.com/tw93/Pake/releases/latest/download/ChatGPT_amd64.deb">Linux</a>
+            <a href="https://github.com/tw93/Pake/releases/latest/download/ChatGPT_x86_64.deb">Linux</a>
         </td>
     </tr>
     <tr>
-        <td><img src=https://cdn.fliggy.com/upic/KFsZIY.png width=600/></td>
+        <td><img src=https://gw.alipayobjects.com/zos/k/30/RoUSUf.png width=600/></td>
         <td><img src=https://cdn.fliggy.com/upic/sfnTXf.png width=600/></td>
     </tr>
 </table>
 
 <details>
 
-<summary>🏂 更多应用如 Flomo / 语雀 / RunCode 可去 <a href="https://github.com/tw93/Pake/releases">Release</a>下载，<b>此外点击可展开快捷键说明</b></summary>
+<summary>🏂 更多应用如 语雀 / RunCode 可去 <a href="https://github.com/tw93/Pake/releases">Release</a>下载，<b>此外点击可展开快捷键说明</b></summary>
 
 <br/>
 
-| Mac                         | Windows/Linux                  | 功能               |
-| --------------------------- | ------------------------------ | ------------------ |
-| <kbd>⌘</kbd> + <kbd>[</kbd> | <kbd>Ctrl</kbd> + <kbd>←</kbd> | 返回上一个页面     |
-| <kbd>⌘</kbd> + <kbd>]</kbd> | <kbd>Ctrl</kbd> + <kbd>→</kbd> | 去下一个页面       |
+| Mac                         | Windows/Linux                  | 功能        |
+|-----------------------------|--------------------------------|-----------|
+| <kbd>⌘</kbd> + <kbd>[</kbd> | <kbd>Ctrl</kbd> + <kbd>←</kbd> | 返回上一个页面   |
+| <kbd>⌘</kbd> + <kbd>]</kbd> | <kbd>Ctrl</kbd> + <kbd>→</kbd> | 去下一个页面    |
 | <kbd>⌘</kbd> + <kbd>↑</kbd> | <kbd>Ctrl</kbd> + <kbd>↑</kbd> | 自动滚动到页面顶部 |
 | <kbd>⌘</kbd> + <kbd>↓</kbd> | <kbd>Ctrl</kbd> + <kbd>↓</kbd> | 自动滚动到页面底部 |
-| <kbd>⌘</kbd> + <kbd>r</kbd> | <kbd>Ctrl</kbd> + <kbd>r</kbd> | 刷新页面           |
-| <kbd>⌘</kbd> + <kbd>w</kbd> | <kbd>Ctrl</kbd> + <kbd>w</kbd> | 隐藏窗口，非退出   |
-| <kbd>⌘</kbd> + <kbd>-</kbd> | <kbd>Ctrl</kbd> + <kbd>-</kbd> | 缩小页面           |
-| <kbd>⌘</kbd> + <kbd>+</kbd> | <kbd>Ctrl</kbd> + <kbd>+</kbd> | 放大页面           |
-| <kbd>⌘</kbd> + <kbd>=</kbd> | <kbd>Ctrl</kbd> + <kbd>=</kbd> | 放大页面           |
-| <kbd>⌘</kbd> + <kbd>0</kbd> | <kbd>Ctrl</kbd> + <kbd>0</kbd> | 重置页面缩放       |
+| <kbd>⌘</kbd> + <kbd>r</kbd> | <kbd>Ctrl</kbd> + <kbd>r</kbd> | 刷新页面      |
+| <kbd>⌘</kbd> + <kbd>w</kbd> | <kbd>Ctrl</kbd> + <kbd>w</kbd> | 隐藏窗口，非退出  |
+| <kbd>⌘</kbd> + <kbd>-</kbd> | <kbd>Ctrl</kbd> + <kbd>-</kbd> | 缩小页面      |
+| <kbd>⌘</kbd> + <kbd>+</kbd> | <kbd>Ctrl</kbd> + <kbd>+</kbd> | 放大页面      |
+| <kbd>⌘</kbd> + <kbd>=</kbd> | <kbd>Ctrl</kbd> + <kbd>=</kbd> | 放大页面      |
+| <kbd>⌘</kbd> + <kbd>0</kbd> | <kbd>Ctrl</kbd> + <kbd>0</kbd> | 重置页面缩放    |
 
 此外还支持双击头部进行全屏切换，拖拽头部进行移动窗口，Mac 用户支持手势方式返回和去下一页，还有其他需求，欢迎提过来。
 
@@ -167,7 +167,7 @@ npm run build
 ## 高级使用
 
 1. 代码结构可参考 [文档](https://github.com/tw93/Pake/wiki/Pake-%E7%9A%84%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84%E8%AF%B4%E6%98%8E)，便于你在开发前了解更多。
-2. 修改 src-tauri 目录下的 `tauri.conf.json`以及 `tauri.xxx.conf.json` 中的 url、productName、icon、identifier 这 4 个字段，其中 icon 可以从 icons 目录选择一个，也可以去 [macOSicons](https://macosicons.com/#/) 下载符合效果的。
+2. 修改 src-tauri 目录下 `tauri.conf.json` 中的 `url` 和 `productName` 字段，以及 `tauri.xxx.conf.json` 中的 `icon` 和 `identifier` 字段，其中 `icon` 可以从 icons 目录选择一个，也可以去 [macOSicons](https://macosicons.com/#/) 下载符合效果的。
 3. 关于窗口属性设置，可以在 `tauri.conf.json` 修改 windows 属性对应的 `width/height`，fullscreen 是否全屏，resizable 是否可以调整大小，假如想适配 Mac 沉浸式头部，可以将 transparent 设置成 `true`，找到 Header 元素加一个 padding-top 样式即可，不想适配改成 `false` 也行。
 4. 此外样式改写、屏蔽广告、逻辑代码注入、容器消息通信、自定义快捷键可见 [高级用法](https://github.com/tw93/Pake/wiki/Pake-%E7%9A%84%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95)。
 
